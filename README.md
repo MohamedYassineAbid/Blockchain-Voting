@@ -4,7 +4,7 @@ A small educational DApp for a single student election. Solidity enforces the vo
 
 This is a demonstration, not a secure real-world election system. A person can create multiple Ethereum addresses, and both addresses and votes are public on-chain. The contract does not verify voter identity or keep ballots secret.
 
-For a full write-up with diagrams and screenshots, see `output/report/` (PDF report: `output/pdf/campus-vote-project-report.pdf`).
+
 
 ## Requirements
 
